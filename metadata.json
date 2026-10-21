@@ -1,0 +1,6 @@
+{
+  "name": "EcoChem Virtual Lab",
+  "description": "Zero-Waste Chemistry Simulator for Science for Sustainability. Conduct safe, waste-free virtual chemical reactions with real-time visual feedback and observations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
